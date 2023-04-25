@@ -1,0 +1,23 @@
+
+
+                                                              HOSPITAL MANAGEMENT SYSTEM C++
+                                                              
+           Hospital Management System is based on a concept of recording patient records and their diagnosis information. Before stepping into the main system a user has to pass through a login system to get access, then only the user can add a new patient record, diagnosis information and check the full history of the patient. This mini project contains limited features, but the essential one.
+           
+    Features:
+
+      1. Login System
+      2. Add Patient Record
+      3. Add Diagnosis Information
+      4. View Patient History
+
+           
+    Please use thise info.                                          
+
+             username : admin
+             Password : pass                                       
+
+      NOTE: RUN THE PROGRAM IN FULL SCREEN ONLY.
+
+      DO NOT DELETE ANY FILES INSIDE THE MAIN PROJECT FOLDER.
+
