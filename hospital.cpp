@@ -531,7 +531,7 @@ int login()
    gotoxy(46,12);
    cout<<"Enter Username"<<endl;
    gotoxy(46,13);
-   /*cin>>user;*/
+   cin>>user;
    gotoxy(46,14);
    cout << "Enter Password: "<<endl;
    gotoxy(46,15);
